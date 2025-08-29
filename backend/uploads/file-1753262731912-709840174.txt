@@ -1,0 +1,33 @@
+Last login: Tue Jun 24 08:43:10 on ttys007
+krishnavenigabright@Krishnavenis-MacBook-Pro ~ % killall -9 node
+krishnavenigabright@Krishnavenis-MacBook-Pro ~ % 
+  [Restored 24 Jun 2025 at 10:40:57 AM]
+Last login: Tue Jun 24 10:40:55 on console
+krishnavenigabright@Krishnavenis-MacBook-Pro ~ % export
+ANDROID_HOME=/Users/krishnavenigabright/Library/Android/sdk
+HOME=/Users/krishnavenigabright
+HOMEBREW_CELLAR=/opt/homebrew/Cellar
+HOMEBREW_PREFIX=/opt/homebrew
+HOMEBREW_REPOSITORY=/opt/homebrew
+INFOPATH=/opt/homebrew/share/info:
+JAVA_HOME=/opt/homebrew/opt/openjdk@17
+LC_CTYPE=UTF-8
+LOGNAME=krishnavenigabright
+LaunchInstanceID=22CEE7C0-2BA5-41A4-B0C8-17DA70C54B6E
+OLDPWD=/Users/krishnavenigabright
+PATH=/Users/krishnavenigabright/Library/Android/sdk/emulator:/Users/krishnavenigabright/Library/Android/sdk/tools:/Users/krishnavenigabright/Library/Android/sdk/tools/bin:/Users/krishnavenigabright/Library/Android/sdk/platform-tools:/opt/homebrew/opt/openjdk@17/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+PWD=/Users/krishnavenigabright
+SECURITYSESSIONID=186a3
+SHELL=/bin/zsh
+SHLVL=1
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.cefdQXbdtv/Listeners
+TERM=xterm-256color
+TERM_PROGRAM=Apple_Terminal
+TERM_PROGRAM_VERSION=453
+TERM_SESSION_ID=5AB82467-3EC6-4341-820E-9843F0A99D9F
+TMPDIR=/var/folders/vr/z4fkw5195j75by5dw47t0xp40000gn/T/
+USER=krishnavenigabright
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+__CFBundleIdentifier=com.apple.Terminal
+krishnavenigabright@Krishnavenis-MacBook-Pro ~ % export JAVA_HOME=/opt/homebrew/opt/openjdk@17 export PATH="$JAVA_HOME/bin:$PATH"
